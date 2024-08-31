@@ -1,0 +1,7 @@
+# Rust 101
+
+Sharing my notes on learning and picking up on Rust.
+
+Start:
+
+    cargo init
